@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/himanshu-singh-b7a44013a/](https://www.linkedin.com/in/himanshu-singh-b7a44013a/)
 
 [![GeekYasuo's GitHub | Stats](https://stats.quira.sh/GeekYasuo/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GeekYasuo)
+[![GeekYasuo's Stack Overflow | Stats](https://stats.quira.sh/GeekYasuo/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GeekYasuo)
 
 [![GeekYasuo's GitHub | Languages Over Time](https://stats.quira.sh/GeekYasuo/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GeekYasuo)
 
