@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud☁️ & DevOps🚀**
 
-- 💬 Ask me about **Java, Spring-Boot, Angular, SQL, DSA**
+- 💬 Ask me about **Back-End, System-Design, and Software Design**
 
 - 📫 How to reach me **heman3389@gmail.com**
 
