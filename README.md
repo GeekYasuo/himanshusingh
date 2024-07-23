@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **heman3389@gmail.com**
 
-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/himanshu-singh-b7a44013a/](https://www.linkedin.com/in/himanshu-singh-b7a44013a/)
 
 [![GeekYasuo's GitHub | Stats](https://stats.quira.sh/GeekYasuo/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GeekYasuo)
