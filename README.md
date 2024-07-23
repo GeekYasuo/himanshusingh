@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+- 🔭 I’m currently working on **DronaHQ**
+
 - 🌱 I’m currently learning **Cloud☁️ & DevOps🚀**
 
-- 💬 Ask me about **Java Spring-Boot, Angular, SQL, DSA**
+- 💬 Ask me about **Java, Spring-Boot, Angular, SQL, DSA**
 
 - 📫 How to reach me **heman3389@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/himanshu-singh-b7a44013a/](https://www.linkedin.com/in/himanshu-singh-b7a44013a/)
 
-- ⚡ Fun fact **I have Good sarcasm**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-singh-b7a44013a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-singh-b7a44013a/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_himanshusingh___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_himanshusingh___/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/heman3389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/heman3389" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/heman3389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/heman3389/" height="30" width="40" /></a>
 </p>
